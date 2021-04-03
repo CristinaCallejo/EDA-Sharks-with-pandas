@@ -9,7 +9,25 @@ __pycache__
 
 .vscode
 .env
+
 data-inputs/attacks.csv
+/data-inputs/attacks.csv
+
+data-inputs/attacks_updated_03042021.xls
+data-inputs/*attacks_updated_03042021.xls
+/data-inputs/attacks_updated_03042021.xls
+data-inputs/attacks_updated_03042021.csv
+/data-inputs/attacks_updated_03042021.csv
+
+data-inputs/attacks03042021.xls
+/data-inputs/attacks03042021.xls
+
+data-inputs/*attacks_updated_03042021.xlsx
+data-inputs/attacks_updated_03042021.xlsx
+/data-inputs/attacks_updated_03042021.xlsx
+
+data-inputs/attacks03042021.csv
+/data-inputs/attacks03042021.csv
 
 .DS_Store
 .DS_Store?
