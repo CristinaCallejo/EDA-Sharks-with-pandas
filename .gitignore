@@ -21,6 +21,10 @@ data-inputs/attacks_updated_03042021.csv
 
 data-inputs/attacks03042021.xls
 /data-inputs/attacks03042021.xls
+/data-processed/attacks_updated_v1.csv
+attacks_updated_v1.csv
+/*attacks_updated_v1.csv
+*/*attacks_updated_v1.csv
 
 data-inputs/*attacks_updated_03042021.xlsx
 data-inputs/attacks_updated_03042021.xlsx
