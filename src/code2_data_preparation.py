@@ -18,4 +18,5 @@ def import_xls_to_csv (string):
 
 def check_dtype_several_df(list):
     for dataf in list:
-        if dataf.dtypes.any() == 'object')
+        if dataf.dtypes.any() == 'object':
+            pass
