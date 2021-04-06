@@ -1,10 +1,11 @@
+
 ![effective_shark_science](https://user-images.githubusercontent.com/76251622/113678730-424a0800-96bf-11eb-8055-7d86e28dfb1c.jpg)
+
 
 # EDA-Sharks-with-pandas
 
-#TODO
-#Libraries used. 
-#Tree structure.
+
+
 
 ##### "IT IS OF GREAT IMPORTANCE THAT THE GENERAL PUBLIC BE GIVEN THE OPPORTUNITY TO EXPERIENCE, CONSCIOUSLY AND INTELLIGENTLY, THE EFFORTS AND RESULTS OF SCIENTIFIC RESEARCH. 
 ##### IT IS NOT SUFFICIENT THAT EACH RESULT BE TAKEN UP, ELABORATED AND APPLIED BY A FEW SPECIALISTS IN THE FIELD."
@@ -24,6 +25,16 @@ It is the goal of the Global Shark Attack File to demonstrate and emphasize, thr
 
 "Instead of ignoring the problem or pretending that we can put up nets and protect everyone from sharks, what is needed is a public education campaign to teach people how to co-exist with sharks."
   -- Lewis Levine, M.D.
+
+
+
+    
+     
+     
+       
+       
+       
+       
 
 
 
@@ -99,3 +110,10 @@ https://www.sharks.org/s/2005-Ritter-Levine.pdf
 USE OF FORENSIC ANALYSIS TO BETTER UNDERSTAND SHARK ATTACK BEHAVIOUR.
 (2004) Erich Ritter, Marie Levine. The Journal of Forensic Odonto-Stomatology, 22(2):40-46.
 https://www.sharks.org/s/Ritter-Levine-2004.pdf
+
+
+
+
+#TODO
+- Libraries used. 
+- Tree structure.
