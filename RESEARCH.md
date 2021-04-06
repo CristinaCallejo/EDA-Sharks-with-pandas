@@ -1,7 +1,13 @@
+
+
+
+## RESEARCH
+
+
 ![magnified_denticles_shark_skin](https://user-images.githubusercontent.com/76251622/113680405-17f94a00-96c1-11eb-9617-b8f3d35cd170.jpg)
             *Shark skin denticles magnified*
 
-#### MOVIES
+### MOVIES
 
 1975 - Jaws
 
@@ -11,7 +17,7 @@
 
 
 
-#### INCIDENT LOG
+### INCIDENT LOG
 
 https://www.sharkattackfile.net/incidentlog.htm
 
@@ -32,7 +38,33 @@ Questionable incidents - Incidents in which there are insufficient data to deter
 
 
 
-#### ARTICLES
+### SCIENTIFIC PUBLICATIONS
+
+
+EFFECT OF HUMAN BODY POSITION ON THE SWIMMING BEHAVIOR OF BULL SHARKS.
+(2012) Raid Amin, Erich Ritter. Society & Animals, 20(3):225-235. DOI: 10.1163/15685306-12341235
+https://www.sharks.org/s/Ritter-Amin-Society-Animals-2012.pdf
+
+A GEOSPATIAL ANALYSIS OF SHARK ATTACK RATES FOR THE EAST COAST OF FLORIDA 1994-2009.
+(2012) Raid Amin, Erich Ritter, Peter Kennedy. Marine and Freshwater Behaviour and Physiology, 45(3):185-198. DOI: 10.1080/10236244.2012.715742
+https://www.sharks.org/s/Amin-Ritter-Kennedy-Mar-Freshw-Behav-Physiol-2012.pdf
+
+A GEOSPATIAL ANALYSIS OF SHARK ATTACK RATES FOR THE COAST OF CALIFORNIA: 1994-2010.
+(2012) Raid Amin, Erich Ritter, Lauren Cossette. Journal of Environment and Ecology, 3(1): 246-255. DOI: 10.5296/jee.v3i1.2700
+https://www.sharks.org/s/Amin-Ritter-Cossette-J-Environ-Ecol-2012.pdf
+
+BITE MOTIVATION OF SHARKS REFLECTED BY THE WOUND STRUCTURE ON HUMANS.
+(2005) Erich K Ritter, Marie Levine. American Journal of Forensic Medicine and Pathology, 26(2):136-140. DOI: 10.1097/01.paf.0000164231.99750.2b
+https://www.sharks.org/s/2005-Ritter-Levine.pdf
+-- ABSTRACT: https://www.researchgate.net/publication/7846307_Bite_motivation_of_sharks_reflected_by_wound_structure_on_humans
+
+USE OF FORENSIC ANALYSIS TO BETTER UNDERSTAND SHARK ATTACK BEHAVIOUR.
+(2004) Erich Ritter, Marie Levine. The Journal of Forensic Odonto-Stomatology, 22(2):40-46.
+https://www.sharks.org/s/Ritter-Levine-2004.pdf
+
+
+
+### ARTICLES
 
 1891 New York multimillionaire Hermann Oelrichs, who offered a 500 dollar reward for anyone who proved a shark attacked a human. That prize would be worth nearly 13,000 dollars today.
 
