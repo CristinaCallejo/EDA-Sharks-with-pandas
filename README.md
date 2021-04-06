@@ -1,12 +1,10 @@
-
-
-
+![effective_shark_science](https://user-images.githubusercontent.com/76251622/113678730-424a0800-96bf-11eb-8055-7d86e28dfb1c.jpg)
 
 # EDA-Sharks-with-pandas
 
 #TODO
-Libraries used. 
-Tree structure.
+#Libraries used. 
+#Tree structure.
 
 ##### "IT IS OF GREAT IMPORTANCE THAT THE GENERAL PUBLIC BE GIVEN THE OPPORTUNITY TO EXPERIENCE, CONSCIOUSLY AND INTELLIGENTLY, THE EFFORTS AND RESULTS OF SCIENTIFIC RESEARCH. 
 ##### IT IS NOT SUFFICIENT THAT EACH RESULT BE TAKEN UP, ELABORATED AND APPLIED BY A FEW SPECIALISTS IN THE FIELD."
@@ -29,15 +27,16 @@ It is the goal of the Global Shark Attack File to demonstrate and emphasize, thr
 
 
 
-### WHO'S WHO: SOURCES.
+## WHO'S WHO: SOURCES.
 
 
-#### SHARK RESEARCH INSTITUTE + GSAF 
+### SHARK RESEARCH INSTITUTE + GSAF 
 
 
 2020:
 SHARK RESEARCH INSTITUTE IS 2020 TOP-RATED NONPROFIT 
 https://greatnonprofits.org/org/shark-research-institute-inc
+
 
 2016:
 SRI, along with the New Jersey Maritime Museum presented a Shark Awareness Dinner to commemorate the anniversary of the 1916 shark attacks off the New Jersey coast – Richard G. Fernicola, M.D. author of “12 Days of Terror” and SRI Educational Director Dean Fessler were featured speakers at the event.
@@ -61,10 +60,14 @@ A world map of encounters categorized by provoked vs. unprovoked, incidents invo
 
 
 
-#### FLORIDA PROG FOR SHARK RESEARCH + ISAF
+### FLORIDA PROG FOR SHARK RESEARCH + ISAF
 
 International Shark Attack File (ISAF) is the world’s only scientifically documented, comprehensive database of all known shark attacks. Initiated in 1958, there are now more than 6,500 individual investigations covering the period from the early 1500s to the present.
 https://www.floridamuseum.ufl.edu/shark-attacks/
+
+
+
+#### CHECK OUT THESE MAPS!
 
 MAP: Confirmed Unprovoked Shark Attacks (1580-Present) https://www.floridamuseum.ufl.edu/shark-attacks/maps/world/
 
@@ -73,7 +76,7 @@ https://www.floridamuseum.ufl.edu/shark-attacks/maps/world-interactive/
 
 
 
-#### SCIENTIFIC PUBLICATIONS
+### SCIENTIFIC PUBLICATIONS
 
 
 EFFECT OF HUMAN BODY POSITION ON THE SWIMMING BEHAVIOR OF BULL SHARKS.
