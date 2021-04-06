@@ -16,7 +16,7 @@ Tree structure.
 ##### [GLOBAL SHARK ATTACK FILE](https://www.sharks.org/global-shark-attack-file)
 
 
-In keeping with the philosophy of Albert Einstein, the mission of the Global Shark Attack File is to provide current and historical data on shark/human interactions for those who seek accurate and meaningful information and verifiable references.
+In keeping with the philosophy of Albert Einstein, the mission of the Global Shark Attack File by the SRI is to provide current and historical data on shark/human interactions for those who seek accurate and meaningful information and verifiable references.
 
 For researchers needing more data, and for those in the media, the Global Shark Attack File provides direct contact information of the case investigators.
 
@@ -72,27 +72,29 @@ MAP INTERACTIVE: Unprovoked Shark Attack Interactive Map
 https://www.floridamuseum.ufl.edu/shark-attacks/maps/world-interactive/
 
 
+### GSAG LEGEND: INCIDENT LOG
+##### INCIDENT LOG
 
-#### SCIENTIFIC PUBLICATIONS
+https://www.sharkattackfile.net/incidentlog.htm
 
 
-EFFECT OF HUMAN BODY POSITION ON THE SWIMMING BEHAVIOR OF BULL SHARKS.
-(2012) Raid Amin, Erich Ritter. Society & Animals, 20(3):225-235. DOI: 10.1163/15685306-12341235
-https://www.sharks.org/s/Ritter-Amin-Society-Animals-2012.pdf
+All individuals survived unless noted otherwise.
+Entries on the spreadsheet are color-coded.
 
-A GEOSPATIAL ANALYSIS OF SHARK ATTACK RATES FOR THE EAST COAST OF FLORIDA 1994-2009.
-(2012) Raid Amin, Erich Ritter, Peter Kennedy. Marine and Freshwater Behaviour and Physiology, 45(3):185-198. DOI: 10.1080/10236244.2012.715742
-https://www.sharks.org/s/Amin-Ritter-Kennedy-Mar-Freshw-Behav-Physiol-2012.pdf
+• Unprovoked Incidents = Tan
+• Provoked Incidents = Orange
+• Incidents Involving Watercrafts = Green
+• Air / Sea Disasters = Yellow
+• Questionable Incidents = Blue
 
-A GEOSPATIAL ANALYSIS OF SHARK ATTACK RATES FOR THE COAST OF CALIFORNIA: 1994-2010.
-(2012) Raid Amin, Erich Ritter, Lauren Cossette. Journal of Environment and Ecology, 3(1): 246-255. DOI: 10.5296/jee.v3i1.2700
-https://www.sharks.org/s/Amin-Ritter-Cossette-J-Environ-Ecol-2012.pdf
+Unprovoked vs. Provoked - GSAF defines a provoked incident as one in which the shark was speared, hooked, captured or in which a human drew "first blood". Although such incidents are of little interest to shark behaviorists, when the species of shark involved is known and pre-op photos of the wounds are available, the bite patterns are of value in determining species of shark involved in other cases when the species could not identified by the patient or witnesses. We know that a live human is rarely perceived as prey by a shark. Many incidents are motivated by curiosity, others may result when a shark perceives a human as a threat or competitor for a food source, and could be classed as "provoked" when examined from the shark's perspective.
 
-BITE MOTIVATION OF SHARKS REFLECTED BY THE WOUND STRUCTURE ON HUMANS.
-(2005) Erich K Ritter, Marie Levine. American Journal of Forensic Medicine and Pathology, 26(2):136-140. DOI: 10.1097/01.paf.0000164231.99750.2b
-https://www.sharks.org/s/2005-Ritter-Levine.pdf
--- ABSTRACT: https://www.researchgate.net/publication/7846307_Bite_motivation_of_sharks_reflected_by_wound_structure_on_humans
+Incidents involving watercraft – Incidents in which a boat was bitten or rammed by a shark are in green. However, in cases in which the shark was hooked, netted or gaffed, the entry is orange because they are classed as provoked incidents.
 
-USE OF FORENSIC ANALYSIS TO BETTER UNDERSTAND SHARK ATTACK BEHAVIOUR.
-(2004) Erich Ritter, Marie Levine. The Journal of Forensic Odonto-Stomatology, 22(2):40-46.
-https://www.sharks.org/s/Ritter-Levine-2004.pdf
+Questionable incidents - Incidents in which there are insufficient data to determine if the injury was caused by a shark or the person drowned and the body was later scavenged by sharks. In a few cases, despite media reports to the contrary, evidence indicated there was no shark involvement whatsoever. Such incidents are in blue.
+
+
+
+
+
+

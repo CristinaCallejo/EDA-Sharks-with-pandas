@@ -1,4 +1,6 @@
 
+
+
 #### WHY STUDY SHARK ACCIDENTS?
 
 Because they provide a glimpse - a window - into the world of sharks and their behaviors. By understanding when and why shark attacks occur, it is possible to lessen the likelihood of these incidents. Humans are familiar with predators found on land; we know enough not to walk into a pride of lions and we don't try to pet a growling dog that is baring its teeth. Similarly, we need to recognize and avoid potentially dangerous situations in the water. The individual case histories provide insights about specific geographical areas and their indigenous species of sharks. However, when all known case histories worldwide are examined, much is revealed about species behavior, and specific patterns emerge.
@@ -15,28 +17,6 @@ Although incidents that occur in remote areas may go unrecorded, the Global Shar
 
 
 
-##### INCIDENT LOG
 
-https://www.sharkattackfile.net/incidentlog.htm
-
-
-All individuals survived unless noted otherwise.
-Entries on the spreadsheet are color-coded.
-
-• Unprovoked Incidents = Tan
-• Provoked Incidents = Orange
-• Incidents Involving Watercrafts = Green
-• Air / Sea Disasters = Yellow
-• Questionable Incidents = Blue
-
-Unprovoked vs. Provoked - GSAF defines a provoked incident as one in which the shark was speared, hooked, captured or in which a human drew "first blood". Although such incidents are of little interest to shark behaviorists, when the species of shark involved is known and pre-op photos of the wounds are available, the bite patterns are of value in determining species of shark involved in other cases when the species could not identified by the patient or witnesses. We know that a live human is rarely perceived as prey by a shark. Many incidents are motivated by curiosity, others may result when a shark perceives a human as a threat or competitor for a food source, and could be classed as "provoked" when examined from the shark's perspective.
-
-Incidents involving watercraft – Incidents in which a boat was bitten or rammed by a shark are in green. However, in cases in which the shark was hooked, netted or gaffed, the entry is orange because they are classed as provoked incidents.
-
-Questionable incidents - Incidents in which there are insufficient data to determine if the injury was caused by a shark or the person drowned and the body was later scavenged by sharks. In a few cases, despite media reports to the contrary, evidence indicated there was no shark involvement whatsoever. Such incidents are in blue.
-
-
-SHARK SPECIES INVOLVED INN INCIDENTS
-https://www.sharkattackfile.net/species.htm
 
 
