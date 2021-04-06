@@ -1,11 +1,15 @@
 
+           
+![magnified_denticles_shark_skin_small](https://user-images.githubusercontent.com/76251622/113687839-074cd200-96c9-11eb-9b11-7dd45bc4e4ea.jpg)
+
+*Shark skin denticles magnified*
 
 
+
+ 
+ 
+ 
 ## RESEARCH
-
-
-![magnified_denticles_shark_skin](https://user-images.githubusercontent.com/76251622/113680405-17f94a00-96c1-11eb-9617-b8f3d35cd170.jpg)
-            *Shark skin denticles magnified*
 
 ### MOVIES
 
