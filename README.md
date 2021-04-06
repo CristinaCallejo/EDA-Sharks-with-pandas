@@ -5,14 +5,14 @@
 # EDA-Sharks-with-pandas
 
 
-#### Data from the incident logs of shark attacks has been popularly used by countless curious users and students.
+**Data from the incident logs of shark attacks has been popularly used by countless curious users and students
 
-#### ...have you ever wondered about the actual data? 
+**...have you ever wondered about the actual data? **
 
 
-#### Exploratory Data Analysis is based on contrasted, validated, verified and up to date data.
+**Exploratory Data Analysis is based on contrasted, validated, verified and up to date data.**
 
-#### Think back on the popular dataset on shark attacks and moreover, on the many projects built upon it, and check if:
+**Think back on the popular dataset on shark attacks and moreover, on the many projects built upon it, and check if:** 
 
 
 
