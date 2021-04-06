@@ -23,7 +23,7 @@ Humans are not on the menu of sharks. Sharks bite humans out of curiosity or to 
 It is the goal of the Global Shark Attack File to demonstrate and emphasize, through forensic analysis, the significance of shark/human interactions in comparison to the myriad dangers that we face in our daily lives. With a better understanding of these interactions we can minimize the risk of being injured by a shark and concentrate on the conservation of all shark species worldwide.
 
 "Instead of ignoring the problem or pretending that we can put up nets and protect everyone from sharks, what is needed is a public education campaign to teach people how to co-exist with sharks."
-- Lewis Levine, M.D.
+  -- Lewis Levine, M.D.
 
 
 
