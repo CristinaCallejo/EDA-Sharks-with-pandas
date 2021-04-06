@@ -5,9 +5,6 @@
 *Shark skin denticles magnified*
 
 
-
- 
- 
  
 ## RESEARCH
 

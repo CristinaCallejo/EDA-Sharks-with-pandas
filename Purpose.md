@@ -1,12 +1,7 @@
 ![image_banknote](https://user-images.githubusercontent.com/76251622/113682159-22b4de80-96c3-11eb-90de-591b41c27246.jpeg)
 
-<<<<<<< HEAD
 
-
-#### WHY STUDY SHARK ACCIDENTS?
-=======
->>>>>>> f7f034e0ab905886d25cdcac206e90c8b1898bce
-
+## PURPOSE: About the original data sources
 
 Light reading that helps [Understanding the legend](https://www.smithsonianmag.com/science-nature/sharks-and-humans-love-hate-story-180959600/)
 
@@ -45,8 +40,7 @@ Although incidents that occur in remote areas may go unrecorded, the Global Shar
 
 From the Yucatan to the Pacific Islands, sharks play a leading role in the origin myths of many coastal societies. The half-man, half-shark Fijian warrior god Dakuwaqa is believed to be a benevolent protector of fishermen. Hawaiian folk legends tell stories of Kamohoalli’i and Ukupanipo, two shark gods that controlled the fish population, and thus determined how successful a fisherman was. In ancient Greece, paintings depict a shark-like creature known as Ketea, who embodied ravenous and insatiable hunger, while the shark-like god Lamia devoured children. Linguists believe that “shark” is the only English word to have Yucatan origins, and stems from a bastardization of the Mayan word for shark, “xoc.”
 
-<<<<<<< HEAD
-=======
+
 Juliet Eilperin, an author and White House bureau chief for the Washington Post, explores the long-standing human obsession with sharks in her 2012 book Demon Fish: Travels Through the Hidden World of Sharks. As humans took to the sea for trade and exploration, deadly shark encounters became a part of seafaring lore, and that fascination turned to fear. “We really had to forget they existed in order to demonize them,” Eilperin said in a 2012 SXSW Eco talk. “And so, what happened is we rediscovered them in the worst possible way, which is through seafaring.”
 
 That fear persisted even on land: In the early 20th century trips to the shore became a national pastime, and in 1916, four people were killed by sharks on the New Jersey shore within a span of two weeks. Soon sharks had become synonymous with fear and panic.
@@ -60,7 +54,6 @@ In reality, sharks are the ones who need a repellent: humans are much more likel
 ![cartilagepills](https://user-images.githubusercontent.com/76251622/113684616-b5ef1380-96c5-11eb-896b-8c2bad84fd63.jpg)
 
 
->>>>>>> f7f034e0ab905886d25cdcac206e90c8b1898bce
 
 
 

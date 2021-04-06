@@ -7,8 +7,7 @@
 
 
 
-##### "IT IS OF GREAT IMPORTANCE THAT THE GENERAL PUBLIC BE GIVEN THE OPPORTUNITY TO EXPERIENCE, CONSCIOUSLY AND INTELLIGENTLY, THE EFFORTS AND RESULTS OF SCIENTIFIC RESEARCH. 
-##### IT IS NOT SUFFICIENT THAT EACH RESULT BE TAKEN UP, ELABORATED AND APPLIED BY A FEW SPECIALISTS IN THE FIELD."
+##### "IT IS OF GREAT IMPORTANCE THAT THE GENERAL PUBLIC BE GIVEN THE OPPORTUNITY TO EXPERIENCE, CONSCIOUSLY AND INTELLIGENTLY, THE EFFORTS AND RESULTS OF SCIENTIFIC RESEARCH.  IT IS NOT SUFFICIENT THAT EACH RESULT BE TAKEN UP, ELABORATED AND APPLIED BY A FEW SPECIALISTS IN THE FIELD."
 ##### - Albert Einstein.
 
 
@@ -86,12 +85,8 @@ https://www.floridamuseum.ufl.edu/shark-attacks/maps/world-interactive/
 
   
     
-      
-      
-
-<<<<<<< HEAD
 ### GSAG LEGEND: INCIDENT LOG
-##### INCIDENT LOG
+
 
 https://www.sharkattackfile.net/incidentlog.htm
 
@@ -109,26 +104,15 @@ Unprovoked vs. Provoked - GSAF defines a provoked incident as one in which the s
 
 Incidents involving watercraft – Incidents in which a boat was bitten or rammed by a shark are in green. However, in cases in which the shark was hooked, netted or gaffed, the entry is orange because they are classed as provoked incidents.
 
-Questionable incidents - Incidents in which there are insufficient data to determine if the injury was caused by a shark or the person drowned and the body was later scavenged by sharks. In a few cases, despite media reports to the contrary, evidence indicated there was no shark involvement whatsoever. Such incidents are in blue.
-=======
+Questionable incidents - Incidents in which there are sufficient data to determine if the injury was caused by a shark or the person drowned and the body was later scavenged by sharks. In a few cases, despite media reports to the contrary, evidence indicated there was no shark involvement whatsoever. Such incidents are labelled in blue.
+
+
 ### SCIENTIFIC PUBLICATIONS
->>>>>>> f7f034e0ab905886d25cdcac206e90c8b1898bce
 
 
-
-
-
-
-<<<<<<< HEAD
-=======
-USE OF FORENSIC ANALYSIS TO BETTER UNDERSTAND SHARK ATTACK BEHAVIOUR.
-(2004) Erich Ritter, Marie Levine. The Journal of Forensic Odonto-Stomatology, 22(2):40-46.
-https://www.sharks.org/s/Ritter-Levine-2004.pdf
-
-
-
+**see Research.md**
 
 #TODO
 - Libraries used. 
 - Tree structure.
->>>>>>> f7f034e0ab905886d25cdcac206e90c8b1898bce
+
