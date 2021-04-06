@@ -6,8 +6,9 @@ Light reading that helps [Understanding the legend](https://www.smithsonianmag.c
 
 
 
+
 ## WHY STUDY SHARK ACCIDENTS? 
-**SRI explains**
+**...SRI explains**
 
 They provide a glimpse - a window - into the world of sharks and their behaviors. 
 
@@ -47,7 +48,10 @@ In 1942, fear of sharks among sailors and pilots was serious enough to warrant a
 In reality, sharks are the ones who need a repellent: humans are much more likely to devour them than vice versa. In China, a meal of shark fin soup has long served as a status symbol—a trend that began with Chinese emperors, but more recently spread to middle class wedding tables and banquets. The demand for sharks to make the $100-per-bowl delicacy, coupled with bycatch in other fisheries, has led to sharp declines in shark populations: a quarter of the world’s Chondrichthyes (the group that includes sharks, rays and skates) are now considered threatened by the the IUCN Red List. Yet there is hope for our toothy friends: While Hong Kong is still the leading importer of shark fins around the globe, demand and prices are dropping.  New campaigns in China are attempting to curb the nation’s appetite for shark fin soup, and shark protections and regulations have increased in recent years. 
 
 
+
 ![cartilagepills](https://user-images.githubusercontent.com/76251622/113684616-b5ef1380-96c5-11eb-896b-8c2bad84fd63.jpg)
+
+
 
 
 
