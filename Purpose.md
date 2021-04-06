@@ -1,25 +1,5 @@
 
-"IT IS OF GREAT IMPORTANCE THAT THE GENERAL PUBLIC BE GIVEN THE OPPORTUNITY TO EXPERIENCE, CONSCIOUSLY AND INTELLIGENTLY, THE EFFORTS AND RESULTS OF SCIENTIFIC RESEARCH. 
-IT IS NOT SUFFICIENT THAT EACH RESULT BE TAKEN UP, ELABORATED AND APPLIED BY A FEW SPECIALISTS IN THE FIELD."
-- Albert Einstein.
- 	
-    
-GLOBAL SHARK ATTACK FILE
-
-In keeping with the philosophy of Albert Einstein, the mission of the Global Shark Attack File is to provide current and historical data on shark/human interactions for those who seek accurate and meaningful information and verifiable references.
-
-For researchers needing more data, and for those in the media, the Global Shark Attack File provides direct contact information of the case investigators.
-
-Humans are not on the menu of sharks. Sharks bite humans out of curiosity or to defend themselves.
-
-It is the goal of the Global Shark Attack File to demonstrate and emphasize, through forensic analysis, the significance of shark/human interactions in comparison to the myriad dangers that we face in our daily lives. With a better understanding of these interactions we can minimize the risk of being injured by a shark and concentrate on the conservation of all shark species worldwide.
-
-"Instead of ignoring the problem or pretending that we can put up nets and protect everyone from sharks, what is needed is a public
-education campaign to teach people how to co-exist with sharks."
-- Lewis Levine, M.D.
-
-
-WHY STUDY SHARK ACCIDENTS?
+#### WHY STUDY SHARK ACCIDENTS?
 
 Because they provide a glimpse - a window - into the world of sharks and their behaviors. By understanding when and why shark attacks occur, it is possible to lessen the likelihood of these incidents. Humans are familiar with predators found on land; we know enough not to walk into a pride of lions and we don't try to pet a growling dog that is baring its teeth. Similarly, we need to recognize and avoid potentially dangerous situations in the water. The individual case histories provide insights about specific geographical areas and their indigenous species of sharks. However, when all known case histories worldwide are examined, much is revealed about species behavior, and specific patterns emerge.
 Most of the incidents in the Global Shark Attack File have nothing to do with predation on humans. Some accidents are motivated by a displacement or territorial behavior when a shark feels threatened; still others are the result of the shark responding to sensory predatory input (i.e., overwhelmed by the presence of many fishes) and environmental conditions (murky water), which may cause them to respond in a reflexive response to stimuli. Sharks also exhibit curiosity and may investigate unknown or unfamiliar objects; they learn by exploring their environment, and - lacking hands - they use their mouths and teeth to examine unfamiliar objects.
@@ -35,7 +15,7 @@ Although incidents that occur in remote areas may go unrecorded, the Global Shar
 
 
 
-INCIDENT LOG
+##### INCIDENT LOG
 
 https://www.sharkattackfile.net/incidentlog.htm
 
@@ -60,5 +40,3 @@ SHARK SPECIES INVOLVED INN INCIDENTS
 https://www.sharkattackfile.net/species.htm
 
 
-
-Copyright © 2005, Shark Research Institute, Inc. All rights reserved

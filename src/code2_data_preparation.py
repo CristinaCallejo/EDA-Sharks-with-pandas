@@ -16,7 +16,8 @@ def import_xls_to_csv (string):
     #print("dataset imported to .csv, assigned to variable: 'dataframe', please call function again by assigning it to 'dataframe'")
     return dataframe
 
-def check_dtype_several_df(list):
-    for dataf in list:
-        if dataf.dtypes.any() == 'object':
+def change__to_dtype_category(list):
+    for df in list:
+        if df.column.dtype == 'object':
+            df[i] = df_2019.apply(lambda x: x.astype('category')).type
             pass

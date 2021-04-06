@@ -1,8 +1,38 @@
+
+
+
+
 # EDA-Sharks-with-pandas
 
 #TODO
 Libraries used. 
 Tree structure.
+
+##### "IT IS OF GREAT IMPORTANCE THAT THE GENERAL PUBLIC BE GIVEN THE OPPORTUNITY TO EXPERIENCE, CONSCIOUSLY AND INTELLIGENTLY, THE EFFORTS AND RESULTS OF SCIENTIFIC RESEARCH. 
+##### IT IS NOT SUFFICIENT THAT EACH RESULT BE TAKEN UP, ELABORATED AND APPLIED BY A FEW SPECIALISTS IN THE FIELD."
+##### - Albert Einstein.
+
+
+##### [GLOBAL SHARK ATTACK FILE](https://www.sharks.org/global-shark-attack-file)
+
+
+In keeping with the philosophy of Albert Einstein, the mission of the Global Shark Attack File is to provide current and historical data on shark/human interactions for those who seek accurate and meaningful information and verifiable references.
+
+For researchers needing more data, and for those in the media, the Global Shark Attack File provides direct contact information of the case investigators.
+
+Humans are not on the menu of sharks. Sharks bite humans out of curiosity or to defend themselves.
+
+It is the goal of the Global Shark Attack File to demonstrate and emphasize, through forensic analysis, the significance of shark/human interactions in comparison to the myriad dangers that we face in our daily lives. With a better understanding of these interactions we can minimize the risk of being injured by a shark and concentrate on the conservation of all shark species worldwide.
+
+"Instead of ignoring the problem or pretending that we can put up nets and protect everyone from sharks, what is needed is a public education campaign to teach people how to co-exist with sharks."
+- Lewis Levine, M.D.
+
+
+
+### WHO'S WHO: SOURCES.
+
+
+#### SHARK RESEARCH INSTITUTE + GSAF 
 
 
 2020:
@@ -30,15 +60,20 @@ https://www.smithsonianmag.com/science-nature/sharks-and-humans-love-hate-story-
 A world map of encounters categorized by provoked vs. unprovoked, incidents involving boats, air & sea disasters and questionable incidents: https://www.google.com/maps/d/viewer?mid=1Xy2BCJ2gzfmVZUvs2RZt9-7MvvT6dK_L&ll=-3.81666561775622e-14%2C-23.54581576562498&z=1
 
 
-https://www.sharks.org/global-shark-attack-file
 
-THE LEADING SOURCE FOR FACTS USED WORLDWIDE.
-The purpose of the Global Shark Attack File is to use forensic analysis to demonstrate and emphasize the likelihood of shark/human interactions in comparison to the myriad dangers that we face in our daily lives. With a better understanding of these interactions we can minimize the possibility of being injured by a shark, and shift the discussion from fear to conservation of all shark species worldwide.
+#### FLORIDA PROG FOR SHARK RESEARCH + ISAF
 
-Created by a group of physicians, surgeons, and medical examiners, GSAF contributors and users quickly grew to include marine biologists and shark behaviorists. The GSAF has been maintained by SRI since 1992 and managed since 2010 by SRI team member Ralph Collier, a respected thought leader in shark conservation who has studied shark/human interactions for more than 40 years.
+International Shark Attack File (ISAF) is the world’s only scientifically documented, comprehensive database of all known shark attacks. Initiated in 1958, there are now more than 6,500 individual investigations covering the period from the early 1500s to the present.
+https://www.floridamuseum.ufl.edu/shark-attacks/
+
+MAP: Confirmed Unprovoked Shark Attacks (1580-Present) https://www.floridamuseum.ufl.edu/shark-attacks/maps/world/
+
+MAP INTERACTIVE: Unprovoked Shark Attack Interactive Map
+https://www.floridamuseum.ufl.edu/shark-attacks/maps/world-interactive/
 
 
-SCIENTIFIC PUBLICATIONS:
+
+#### SCIENTIFIC PUBLICATIONS
 
 
 EFFECT OF HUMAN BODY POSITION ON THE SWIMMING BEHAVIOR OF BULL SHARKS.
