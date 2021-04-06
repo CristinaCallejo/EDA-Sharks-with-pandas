@@ -5,31 +5,31 @@
 # EDA-Sharks-with-pandas
 
 
-**Data from the incident logs of shark attacks has been popularly used by countless curious users and students
+Data from the incident logs of shark attacks has been popularly used by countless curious users and students
 
-**...have you ever wondered about the actual data? **
+...have you ever wondered about the actual data?
 
 
 **Exploratory Data Analysis is based on contrasted, validated, verified and up to date data.**
 
-**Think back on the popular dataset on shark attacks and moreover, on the many projects built upon it, and check if:** 
+Think back on the popular dataset on shark attacks and moreover, on the many projects built upon it, and check if:
 
 
 
-#### DATA is 
-####   ---> UP-TO-DATE
-####   ---> CONTRASTED
-####   ---> VALIDATED
+is the DATA:
+   ---> UP-TO-DATE
+   ---> CONTRASTED
+   ---> VALIDATED
 
 
-##### The main purpose of the project is to explore the use of data visualization techniques using matplotlib and seaborn with pandas library in Python.
-##### The hours spent diving to complement and contrast the data has generated in me a great interest for sharks! 
-##### Many thanks to the Shark Attack Institute and their GSFSA log for sharing your findings and passion and to the Florida Program for Shark ##### Research and their ISAF annual report. 
+The main purpose of the project is to explore the use of data visualization techniques using matplotlib and seaborn with pandas library in Python.
+The hours spent diving to complement and contrast the data has generated in me a great interest for sharks! 
+Many thanks to the Shark Attack Institute and their GSFSA log for sharing your findings and passion and to the Florida Program for Shark ##### Research and their ISAF annual report. 
 
 
 
 
-_Tools/Resources_
+**Tools/Resources**
 
 IOS 11.2.3
 Sys
@@ -43,8 +43,8 @@ Libraries:
 
 
 
-##### "IT IS OF GREAT IMPORTANCE THAT THE GENERAL PUBLIC BE GIVEN THE OPPORTUNITY TO EXPERIENCE, CONSCIOUSLY AND INTELLIGENTLY, THE EFFORTS AND RESULTS OF SCIENTIFIC RESEARCH.  IT IS NOT SUFFICIENT THAT EACH RESULT BE TAKEN UP, ELABORATED AND APPLIED BY A FEW SPECIALISTS IN THE FIELD."
-##### - Albert Einstein.
+_"IT IS OF GREAT IMPORTANCE THAT THE GENERAL PUBLIC BE GIVEN THE OPPORTUNITY TO EXPERIENCE, CONSCIOUSLY AND INTELLIGENTLY, THE EFFORTS AND RESULTS OF SCIENTIFIC RESEARCH.  IT IS NOT SUFFICIENT THAT EACH RESULT BE TAKEN UP, ELABORATED AND APPLIED BY A FEW SPECIALISTS IN THE FIELD."_
+*- Albert Einstein.*
 
 
 ##### [GLOBAL SHARK ATTACK FILE](https://www.sharks.org/global-shark-attack-file)
