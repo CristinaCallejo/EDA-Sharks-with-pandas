@@ -24,7 +24,7 @@ is the DATA:
 
 The main purpose of the project is to explore the use of data visualization techniques using matplotlib and seaborn with pandas library in Python.
 The hours spent diving to complement and contrast the data has generated in me a great interest for sharks! 
-Many thanks to the Shark Attack Institute and their GSFSA log for sharing your findings and passion and to the Florida Program for Shark ##### Research and their ISAF annual report. 
+Many thanks to the Shark Attack Institute and their GSFSA log for sharing your findings and passion and to the Florida Program for Shark Research and their ISAF annual report. 
 
 
 
@@ -45,6 +45,9 @@ Libraries:
 
 _"IT IS OF GREAT IMPORTANCE THAT THE GENERAL PUBLIC BE GIVEN THE OPPORTUNITY TO EXPERIENCE, CONSCIOUSLY AND INTELLIGENTLY, THE EFFORTS AND RESULTS OF SCIENTIFIC RESEARCH.  IT IS NOT SUFFICIENT THAT EACH RESULT BE TAKEN UP, ELABORATED AND APPLIED BY A FEW SPECIALISTS IN THE FIELD."_
 *- Albert Einstein.*
+     
+          
+          
 
 
 ##### [GLOBAL SHARK ATTACK FILE](https://www.sharks.org/global-shark-attack-file)
