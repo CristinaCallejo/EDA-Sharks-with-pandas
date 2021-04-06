@@ -27,19 +27,16 @@ It is the goal of the Global Shark Attack File to demonstrate and emphasize, thr
   -- Lewis Levine, M.D.
 
 
+-------
 
-    
-     
-     
-       
-       
-       
-       
+
 
 
 
 ## WHO'S WHO: SOURCES.
-
+   
+     
+     
 
 ### SHARK RESEARCH INSTITUTE + GSAF 
 
@@ -68,7 +65,9 @@ https://www.smithsonianmag.com/science-nature/sharks-and-humans-love-hate-story-
 
 
 A world map of encounters categorized by provoked vs. unprovoked, incidents involving boats, air & sea disasters and questionable incidents: https://www.google.com/maps/d/viewer?mid=1Xy2BCJ2gzfmVZUvs2RZt9-7MvvT6dK_L&ll=-3.81666561775622e-14%2C-23.54581576562498&z=1
-
+   
+     
+     
 
 
 ### FLORIDA PROG FOR SHARK RESEARCH + ISAF
@@ -85,7 +84,10 @@ MAP: Confirmed Unprovoked Shark Attacks (1580-Present) https://www.floridamuseum
 MAP INTERACTIVE: Unprovoked Shark Attack Interactive Map
 https://www.floridamuseum.ufl.edu/shark-attacks/maps/world-interactive/
 
-
+  
+    
+      
+      
 
 ### SCIENTIFIC PUBLICATIONS
 
