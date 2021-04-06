@@ -1,12 +1,38 @@
+![magnified_denticles_shark_skin](https://user-images.githubusercontent.com/76251622/113680405-17f94a00-96c1-11eb-9617-b8f3d35cd170.jpg)
+            *Shark skin denticles magnified*
 
-https://www.smithsonianmag.com/science-nature/sharks-and-humans-love-hate-story-180959600/
+#### MOVIES
+
+1975 - Jaws
+
+1999 - Deep Blue Sea
+
+2003 - Open Water
 
 
 
-**MOVIES**
-1975 jaws
-1999 deep blue sea
-2003 open water
+#### INCIDENT LOG
+
+https://www.sharkattackfile.net/incidentlog.htm
+
+All individuals survived unless noted otherwise.
+Entries on the spreadsheet are color-coded.
+
+• Unprovoked Incidents = Tan
+• Provoked Incidents = Orange
+• Incidents Involving Watercrafts = Green
+• Air / Sea Disasters = Yellow
+• Questionable Incidents = Blue
+
+Unprovoked vs. Provoked - GSAF defines a provoked incident as one in which the shark was speared, hooked, captured or in which a human drew "first blood". Although such incidents are of little interest to shark behaviorists, when the species of shark involved is known and pre-op photos of the wounds are available, the bite patterns are of value in determining species of shark involved in other cases when the species could not identified by the patient or witnesses. We know that a live human is rarely perceived as prey by a shark. Many incidents are motivated by curiosity, others may result when a shark perceives a human as a threat or competitor for a food source, and could be classed as "provoked" when examined from the shark's perspective.
+
+Incidents involving watercraft – Incidents in which a boat was bitten or rammed by a shark are in green. However, in cases in which the shark was hooked, netted or gaffed, the entry is orange because they are classed as provoked incidents.
+
+Questionable incidents - Incidents in which there are insufficient data to determine if the injury was caused by a shark or the person drowned and the body was later scavenged by sharks. In a few cases, despite media reports to the contrary, evidence indicated there was no shark involvement whatsoever. Such incidents are in blue.
+
+
+
+#### ARTICLES
 
 1891 New York multimillionaire Hermann Oelrichs, who offered a 500 dollar reward for anyone who proved a shark attacked a human. That prize would be worth nearly 13,000 dollars today.
 
